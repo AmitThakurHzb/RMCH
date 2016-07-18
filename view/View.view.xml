@@ -1,0 +1,11 @@
+<mvc:View controllerName="rmch.controller.View" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
+	<App>
+		<pages>
+			<Page title="{i18n>title}">
+				<content>
+					<StandardTile title="RMC-HANA LINK" info="Info" icon="sap-icon://customer" activeIcon="sap-icon://customer" number="12" numberUnit="eur" infoState="Success" id="__tile0" press="onClick"/>
+				</content>
+			</Page>
+		</pages>
+	</App>
+</mvc:View>

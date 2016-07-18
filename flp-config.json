@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "rmchana01",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#rmchana01-Display",
+        "navigationComponentName": "rmch",
+        "intentSemanticObject": "rmchana01",
+        "intentAction": "Display",
+        "html5ApplicationName": "rmchana01",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "fc4f106f-d014-432f-8ac2-c15333bf803a-1468831540688"
+        ],
+        "contentPackages": [
+            "6c1e1caa-00e6-44a8-ad44-770d388ee0f4-1468831490573"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "RMC",
+        "subtitle": "RMCHANA",
+        "searchKeywords": "RMC,RMCHANA",
+        "displayIconUrl": "sap-icon://approvals",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
