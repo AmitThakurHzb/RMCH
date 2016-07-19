@@ -24,6 +24,7 @@
 						</tileContent>
 					</GenericTile>
 				</content>
+				<BusyIndicator busy="true" busyIndicatorDelay="0" text="Please wait..." id="__indicator0"/>
 			</Page>
 		</pages>
 	</App>
