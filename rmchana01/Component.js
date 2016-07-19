@@ -1,6 +1,7 @@
 sap.ui.define([
 	"sap/ui/core/UIComponent",
-	"sap/ui/Device"
+	"sap/ui/Device",
+	"rmch/model/models"
 ], function(UIComponent, Device, models) {
 	"use strict";
 
@@ -18,6 +19,9 @@ sap.ui.define([
 		init: function() {
 			// call the base component's init function
 			UIComponent.prototype.init.apply(this, arguments);
+
+			// set the device model
+			this.setModel(models.createDeviceModel(), "device");
 		}
 	});
 
