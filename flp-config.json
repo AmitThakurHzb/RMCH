@@ -2,6 +2,7 @@
     "application": {
         "id": "",
         "title": "rmchana01",
+        "description": "hanarmc",
         "type": "SAP_UI5_Component",
         "componentUrl": "/",
         "appUrl": "#rmchana01-Display",
@@ -22,10 +23,10 @@
     },
     "tile": {
         "type": "StaticTile",
-        "title": "RMC",
-        "subtitle": "RMCHANA",
-        "searchKeywords": "RMC,RMCHANA",
-        "displayIconUrl": "sap-icon://approvals",
+        "title": "RMC-HANA",
+        "subtitle": "LAUNCHER RMC HANA",
+        "searchKeywords": "RMC-HANA,LAUNCHER RMC HANA",
+        "displayIconUrl": "sap-icon://action",
         "displayInfoText": "",
         "size": "1x1",
         "serviceURL": "",
